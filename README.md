@@ -64,9 +64,7 @@
                 Week 1 <br />
                 (12/26 21:30)
             </td>
-          <td>
-               <br />
-            </td>
+             <td align="center"><a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-%ED%99%9C%EC%9A%A9-1"><br />[실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발]</a><br /></td>
             <td>
                섹션 0. 강좌 소개 <br />
                섹션 1. 프로젝트 환경설정 <br />
@@ -83,10 +81,7 @@
                 Week 2 <br />
                 (1/3 20:00)
             </td>
-          <td>
-               <br />
-            </td>
-            <td>
+          <td align="center"><a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-%ED%99%9C%EC%9A%A9-1"><br />[실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발]</a><br /></td>
                섹션 5. 상품 도메인 개발 <br />
                섹션 6. 주문 도메인 개발 <br />
                섹션 7. 웹 계층 개발 <br />
@@ -100,10 +95,7 @@
                 Week 3 <br />
                 (1/9 12:00)
             </td>
-          <td>
-               <br />
-            </td>
-            <td>
+          <td align="center"><a href="https://www.inflearn.com/course/ORM-JPA-Basic"><br />[자바 ORM 표준 JPA 프로그래밍 - 기본편]</a><br /></td>
             섹션 0. 강좌 소개 <br />
             섹션 1. JPA 소개 <br />
             섹션 2. JPA 시작하기 <br />
@@ -119,9 +111,7 @@
                 Week 4 <br />
                 (1/16 12:00)
             </td>
-          <td>
-               <br />
-            </td>
+          <td align="center"><a href="https://www.inflearn.com/course/ORM-JPA-Basic"><br />[자바 ORM 표준 JPA 프로그래밍 - 기본편]</a><br /></td>
             <td>
             섹션 5. 연관관계 매핑 기초 <br />
             섹션 6. 다양한 연관관계 매핑 <br />
@@ -137,9 +127,7 @@
                 Week 4 <br />
                 (1/23 12:00)
             </td>
-          <td>
-               <br />
-            </td>
+          <td align="center"><a href="https://www.inflearn.com/course/ORM-JPA-Basic"><br />[자바 ORM 표준 JPA 프로그래밍 - 기본편]</a><br /></td>
             <td>
             섹션 9. 값 타입 <br />
             섹션 10. 객체지향 쿼리 언어1 - 기본 문법 <br />
@@ -154,9 +142,8 @@
                 Week 5 <br />
                 (2/6 12:00)
             </td>
-          <td>
-            <br />
-            </td>
+         <td align="center"><a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-API%EA%B0%9C%EB%B0%9C-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94"><br />[실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화]</a><br /></td>
+            <td>
             <td>
             섹션 0. 강좌 소개<br />
             섹션 1. API 개발 기본<br />
@@ -170,28 +157,11 @@
        <tr>
             <td> 
                 Week 6 <br />
-                (2/13 12:00)
-            </td>
-          <td>
-               <br />
-            </td>
-            <td>
-             <br />
-            </td>
-            <td>
-                <br />
-            </td>
-        </tr>
-       <tr>
-            <td> 
-                Week 7 <br />
                 (2/20 12:00)
             </td>
-          <td>
-               <br />
-            </td>
+          <td align="center"><a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-API%EA%B0%9C%EB%B0%9C-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94"><br />[실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화]</a><br /></td>
             <td>
-             섹션 4. API 개발 고급 - 컬렉션 조회 최적화<br />
+            섹션 4. API 개발 고급 - 컬렉션 조회 최적화<br />
             섹션 5. API 개발 고급 - 실무 필수 최적화<br />
             섹션 6. 다음으로<br />
             </td>
@@ -201,7 +171,7 @@
         </tr>
        <tr>
             <td> 
-                Week 8 <br />
+                Week 7 <br />
                 (2/27 12:00)
             </td>
              <td align="center"><a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%EC%8B%A4%EC%A0%84"><br />[실전! 스프링 데이터 JPA]</a><br /></td>
@@ -218,7 +188,7 @@
         </tr>
        <tr>
             <td> 
-                Week 9 <br />
+                Week 8 <br />
                 (3/6 12:00)
             </td>
          <td align="center"><a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%EC%8B%A4%EC%A0%84"><br />[실전! 스프링 데이터 JPA]</a><br /></td>
@@ -233,14 +203,31 @@
         </tr>
        <tr>
             <td> 
-                Week 10 <br />
+                Week 9 <br />
                 (3/13 12:00)
             </td>
-          <td>
-               <br />
+          <td align="center"><a href="https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84"><br />[실전! Querydsl]</a><br /></td>
+            <td>
+             섹션 0. Querydsl 소개<br />
+섹션 1. 프로젝트 환경설정<br />
+섹션 2. 예제 도메인 모델<br />
+섹션 3. 기본 문법<br />
+섹션 4. 중급 문법<br />
             </td>
             <td>
-             <br />
+                <br />
+            </td>
+        </tr>
+       <tr>
+            <td> 
+                Week 10 <br />
+                (3/20 12:00)
+            </td>
+          <td align="center"><a href="https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84"><br />[실전! Querydsl]</a><br /></td>
+            <td>
+             섹션 5. 실무 활용 - 순수 JPA와 Querydsl<br />
+섹션 6. 실무 활용 - 스프링 데이터 JPA와 Querydsl<br />
+섹션 7. 스프링 데이터 JPA가 제공하는 Querydsl 기능<br />
             </td>
             <td>
                 <br />
@@ -249,11 +236,9 @@
        <tr>
             <td> 
                 Week 11 <br />
-                (3/20 12:00)
+                (3/27 12:00)
             </td>
-          <td>
-               <br />
-            </td>
+          <td align="center"><a href="https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84"><br />[실전! Querydsl]</a><br /></td>
             <td>
              <br />
             </td>
