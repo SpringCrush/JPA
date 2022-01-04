@@ -13,13 +13,12 @@
 
 - 필수 학습: [초급~활용] 김영한의 스프링 부트와 JPA 실무 완전 정복 로드맵(https://www.inflearn.com/roadmaps/149)
 - 선택 학습
-    - 문서: [Hibernate ORM Documentation](http://hibernate.org/orm/documentation/5.5/)
     - 도서: [자바 ORM 표준 JPA 프로그래밍](http://www.yes24.com/Product/Goods/19040233?OzSrank=1)
 
 <br />
 
 
-## 😀 참가 맴버
+## 😀 참가 멤버
 <table>
   <tr>
     <td align="center"><a href="https://github.com/iamsojung"><img src="https://avatars.githubusercontent.com/u/38772161?v=4" width="100px;" alt=""/><br /><sub><b>iamsojung</b></sub>  </a><br /></td>
@@ -256,11 +255,16 @@
 <br />
 
 ## 📣 스터디 안내
-
+- 날짜 : 매주 일요일 오후 12시😉
+- 발표자 : 스터디 5분전 사다리타기로 결정
+     - 연속 2주 걸린 경우에만 제외!  
+- 1개월 기준 지각/결석/숙제X 3번 이상일 경우 스터디 OUT!
 <br />
 
 ## ✏️ 스터디 준비 방식
-
+- 강의를 들으면서, 중요하다고 생각되는 부분 정리하여 issue에 링크 댓글달기 
+    - 티스토리, 노션, 깃헙 등 자유롭게 
+- 각자 강의를 들으면서 고민했던 부분, 질문 등 토의 소재 1개씩 가져오기
 
 <br />
 <br />
@@ -268,6 +272,6 @@
 <!-- Bottom -->
 <hr />
 <div align=center>
-    <h3> SpringCrush | JPA 정복반 </h3>
+    <h3> SpringCrush | 스프링격파! </h3>
 </div>
 <hr />
