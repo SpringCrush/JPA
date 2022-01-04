@@ -18,20 +18,20 @@
 
 <br />
 
-<!-- 
+
 ## 😀 참가 맴버
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/iamsojung"><img src="https://avatars.githubusercontent.com/u/38772161?v=4" width="100px;" alt=""/><br /><sub><b>Covenant</b></sub>  </a><br /></td>
-    <td align="center"><a href="https://github.com/Kodo92"><img src="https://avatars.githubusercontent.com/u/18136160?v=4" width="100px;" alt=""/><br /><sub><b>Covenant</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/orgs/SpringCrush/people/eunsolJo"><img src="https://avatars.githubusercontent.com/u/30275690?v=4" width="100px;" alt=""/><br /><sub><b>esesil</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/orgs/SpringCrush/people/39roc"><img src="https://avatars.githubusercontent.com/u/60119867?v=4" width="100px;" alt=""/><br /><sub><b>jihyunPark</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/JoyDaheeCha"><img src="https://avatars.githubusercontent.com/u/56214102?v=4" width="100px;" alt=""/><br /><sub><b>Sangjin Oh
+    <td align="center"><a href="https://github.com/iamsojung"><img src="https://avatars.githubusercontent.com/u/38772161?v=4" width="100px;" alt=""/><br /><sub><b>iamsojung</b></sub>  </a><br /></td>
+    <td align="center"><a href="https://github.com/Kodo92"><img src="https://avatars.githubusercontent.com/u/18136160?v=4" width="100px;" alt=""/><br /><sub><b>Kodo92</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/orgs/SpringCrush/people/eunsolJo"><img src="https://avatars.githubusercontent.com/u/30275690?v=4" width="100px;" alt=""/><br /><sub><b>eunsolJo</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/orgs/SpringCrush/people/39roc"><img src="https://avatars.githubusercontent.com/u/60119867?v=4" width="100px;" alt=""/><br /><sub><b>39roc</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/JoyDaheeCha"><img src="https://avatars.githubusercontent.com/u/56214102?v=4" width="100px;" alt=""/><br /><sub><b>JoyDaheeCha
 </b></sub></a><br /></td>
 </tr>
 </table>
 <br />
--->
+
 
 ## 📅 일정
 
@@ -149,8 +149,134 @@
                 <br />
             </td>
         </tr>
-
-      
+       <tr>
+            <td> 
+                Week 5 <br />
+                (2/6 12:00)
+            </td>
+          <td>
+            <br />
+            </td>
+            <td>
+            섹션 0. 강좌 소개<br />
+            섹션 1. API 개발 기본<br />
+            섹션 2. API 개발 고급 - 준비<br />
+            섹션 3. API 개발 고급 - 지연 로딩과 조회 성능 최적화<br />
+            </td>
+            <td>
+                <br />
+            </td>
+        </tr>
+       <tr>
+            <td> 
+                Week 6 <br />
+                (2/13 12:00)
+            </td>
+          <td>
+               <br />
+            </td>
+            <td>
+             <br />
+            </td>
+            <td>
+                <br />
+            </td>
+        </tr>
+       <tr>
+            <td> 
+                Week 7 <br />
+                (2/20 12:00)
+            </td>
+          <td>
+               <br />
+            </td>
+            <td>
+             섹션 4. API 개발 고급 - 컬렉션 조회 최적화<br />
+            섹션 5. API 개발 고급 - 실무 필수 최적화<br />
+            섹션 6. 다음으로<br />
+            </td>
+            <td>
+                <br />
+            </td>
+        </tr>
+       <tr>
+            <td> 
+                Week 8 <br />
+                (2/27 12:00)
+            </td>
+             <td align="center"><a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%EC%8B%A4%EC%A0%84"><br />[실전! 스프링 데이터 JPA]</a><br /></td>
+          <td>
+               섹션 0. 스프링 데이터 JPA 소개<br />
+               섹션 1. 프로젝트 환경설정<br />
+               섹션 2. 예제 도메인 모델<br />
+               섹션 3. 공통 인터페이스 기능<br />
+               섹션 4. 쿼리 메소드 기능<br />
+          </td>
+            <td>
+                <br />
+            </td>
+        </tr>
+       <tr>
+            <td> 
+                Week 9 <br />
+                (3/6 12:00)
+            </td>
+         <td align="center"><a href="https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%EC%8B%A4%EC%A0%84"><br />[실전! 스프링 데이터 JPA]</a><br /></td>
+            <td>
+             섹션 5. 확장 기능<br />
+            섹션 6. 스프링 데이터 JPA 분석<br />
+            섹션 7. 나머지 기능들<br />
+            </td>
+            <td>
+                <br />
+            </td>
+        </tr>
+       <tr>
+            <td> 
+                Week 10 <br />
+                (3/13 12:00)
+            </td>
+          <td>
+               <br />
+            </td>
+            <td>
+             <br />
+            </td>
+            <td>
+                <br />
+            </td>
+        </tr>
+       <tr>
+            <td> 
+                Week 11 <br />
+                (3/20 12:00)
+            </td>
+          <td>
+               <br />
+            </td>
+            <td>
+             <br />
+            </td>
+            <td>
+                <br />
+            </td>
+        </tr>
+       <tr>
+            <td> 
+                Week 12 <br />
+                (3/27 12:00)
+            </td>
+          <td>
+               <br />
+            </td>
+            <td>
+             <br />
+            </td>
+            <td>
+                <br />
+            </td>
+        </tr>
+       
     </tbody>
 </table>
 
